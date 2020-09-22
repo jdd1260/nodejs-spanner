@@ -4,6 +4,19 @@
 
 [1]: https://www.npmjs.com/package/nodejs-spanner?activeTab=versions
 
+## [5.4.0](https://www.github.com/googleapis/nodejs-spanner/compare/v5.3.0...v5.4.0) (2020-09-22)
+
+
+### Features
+
+* support callbacks with database getRestoreInfo(), getState(), getOperations() ([#1230](https://www.github.com/googleapis/nodejs-spanner/issues/1230)) ([b56758b](https://www.github.com/googleapis/nodejs-spanner/commit/b56758b0e832c6471d14bd88b4580d21d5696fdd))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @google-cloud/precise-date to v2 ([#1240](https://www.github.com/googleapis/nodejs-spanner/issues/1240)) ([38dfec2](https://www.github.com/googleapis/nodejs-spanner/commit/38dfec22dd00f4d69750fc20e66c2395a9c6d3b3))
+* **deps:** update dependency yargs to v16 ([#1233](https://www.github.com/googleapis/nodejs-spanner/issues/1233)) ([75fd09a](https://www.github.com/googleapis/nodejs-spanner/commit/75fd09acb5a9a728a8b6403f44351e4b9b44b723))
+
 ## [5.3.0](https://www.github.com/googleapis/nodejs-spanner/compare/v5.2.1...v5.3.0) (2020-09-04)
 
 
